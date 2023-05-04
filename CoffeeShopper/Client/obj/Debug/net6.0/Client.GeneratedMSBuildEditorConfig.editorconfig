@@ -52,8 +52,20 @@ build_metadata.AdditionalFiles.CssScope = b-ocnk4r8tjs
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE5hdk1lbnUucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = b-kd1ih0s86n
 
+[D:/Code/Learning/IdentityServer/CoffeeShopper/Client/Shared/RedirectToLogin.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXFJlZGlyZWN0VG9Mb2dpbi5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = b-awt2fp1179
+
 [D:/Code/Learning/IdentityServer/CoffeeShopper/Client/Pages/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Code/Learning/IdentityServer/CoffeeShopper/Client/Pages/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTG9naW4uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Code/Learning/IdentityServer/CoffeeShopper/Client/Pages/Logout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTG9nb3V0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
 [D:/Code/Learning/IdentityServer/CoffeeShopper/Client/Pages/_Host.cshtml]
