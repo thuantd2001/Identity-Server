@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Code\\Leaning\\Identity-Server\\CoffeeShopper\\API\\API.csproj": {}
+    "D:\\Code\\Learning\\IdentityServer\\CoffeeShopper\\API\\API.csproj": {}
   },
   "projects": {
-    "D:\\Code\\Leaning\\Identity-Server\\CoffeeShopper\\API\\API.csproj": {
+    "D:\\Code\\Learning\\IdentityServer\\CoffeeShopper\\API\\API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Code\\Leaning\\Identity-Server\\CoffeeShopper\\API\\API.csproj",
+        "projectUniqueName": "D:\\Code\\Learning\\IdentityServer\\CoffeeShopper\\API\\API.csproj",
         "projectName": "API",
-        "projectPath": "D:\\Code\\Leaning\\Identity-Server\\CoffeeShopper\\API\\API.csproj",
+        "projectPath": "D:\\Code\\Learning\\IdentityServer\\CoffeeShopper\\API\\API.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "D:\\Code\\Leaning\\Identity-Server\\CoffeeShopper\\API\\obj\\",
+        "outputPath": "D:\\Code\\Learning\\IdentityServer\\CoffeeShopper\\API\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -32,8 +32,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "D:\\Code\\Leaning\\Identity-Server\\CoffeeShopper\\DataAccess\\DataAccess.csproj": {
-                "projectPath": "D:\\Code\\Leaning\\Identity-Server\\CoffeeShopper\\DataAccess\\DataAccess.csproj"
+              "D:\\Code\\Learning\\IdentityServer\\CoffeeShopper\\DataAccess\\DataAccess.csproj": {
+                "projectPath": "D:\\Code\\Learning\\IdentityServer\\CoffeeShopper\\DataAccess\\DataAccess.csproj"
               }
             }
           }
@@ -48,6 +48,10 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "dependencies": {
+            "IdentityServer4.AccessTokenValidation": {
+              "target": "Package",
+              "version": "[3.0.1, )"
+            },
             "Microsoft.EntityFrameworkCore.SqlServer": {
               "target": "Package",
               "version": "[6.0.16, )"
@@ -82,14 +86,14 @@
         }
       }
     },
-    "D:\\Code\\Leaning\\Identity-Server\\CoffeeShopper\\DataAccess\\DataAccess.csproj": {
+    "D:\\Code\\Learning\\IdentityServer\\CoffeeShopper\\DataAccess\\DataAccess.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Code\\Leaning\\Identity-Server\\CoffeeShopper\\DataAccess\\DataAccess.csproj",
+        "projectUniqueName": "D:\\Code\\Learning\\IdentityServer\\CoffeeShopper\\DataAccess\\DataAccess.csproj",
         "projectName": "DataAccess",
-        "projectPath": "D:\\Code\\Leaning\\Identity-Server\\CoffeeShopper\\DataAccess\\DataAccess.csproj",
+        "projectPath": "D:\\Code\\Learning\\IdentityServer\\CoffeeShopper\\DataAccess\\DataAccess.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "D:\\Code\\Leaning\\Identity-Server\\CoffeeShopper\\DataAccess\\obj\\",
+        "outputPath": "D:\\Code\\Learning\\IdentityServer\\CoffeeShopper\\DataAccess\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

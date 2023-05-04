@@ -12,3 +12,17 @@ D:\Code\Leaning\Identity-Server\CoffeeShopper\DataAccess\obj\Debug\net6.0\refint
 D:\Code\Leaning\Identity-Server\CoffeeShopper\DataAccess\obj\Debug\net6.0\DataAccess.pdb
 D:\Code\Leaning\Identity-Server\CoffeeShopper\DataAccess\obj\Debug\net6.0\DataAccess.genruntimeconfig.cache
 D:\Code\Leaning\Identity-Server\CoffeeShopper\DataAccess\obj\Debug\net6.0\ref\DataAccess.dll
+D:\Code\Leaning\IdentityServer\CoffeeShopper\DataAccess\bin\Debug\net6.0\DataAccess.deps.json
+D:\Code\Leaning\IdentityServer\CoffeeShopper\DataAccess\bin\Debug\net6.0\DataAccess.runtimeconfig.json
+D:\Code\Leaning\IdentityServer\CoffeeShopper\DataAccess\bin\Debug\net6.0\DataAccess.dll
+D:\Code\Leaning\IdentityServer\CoffeeShopper\DataAccess\bin\Debug\net6.0\DataAccess.pdb
+D:\Code\Leaning\IdentityServer\CoffeeShopper\DataAccess\obj\Debug\net6.0\DataAccess.csproj.AssemblyReference.cache
+D:\Code\Leaning\IdentityServer\CoffeeShopper\DataAccess\obj\Debug\net6.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\Leaning\IdentityServer\CoffeeShopper\DataAccess\obj\Debug\net6.0\DataAccess.AssemblyInfoInputs.cache
+D:\Code\Leaning\IdentityServer\CoffeeShopper\DataAccess\obj\Debug\net6.0\DataAccess.AssemblyInfo.cs
+D:\Code\Leaning\IdentityServer\CoffeeShopper\DataAccess\obj\Debug\net6.0\DataAccess.csproj.CoreCompileInputs.cache
+D:\Code\Leaning\IdentityServer\CoffeeShopper\DataAccess\obj\Debug\net6.0\DataAccess.dll
+D:\Code\Leaning\IdentityServer\CoffeeShopper\DataAccess\obj\Debug\net6.0\refint\DataAccess.dll
+D:\Code\Leaning\IdentityServer\CoffeeShopper\DataAccess\obj\Debug\net6.0\DataAccess.pdb
+D:\Code\Leaning\IdentityServer\CoffeeShopper\DataAccess\obj\Debug\net6.0\DataAccess.genruntimeconfig.cache
+D:\Code\Leaning\IdentityServer\CoffeeShopper\DataAccess\obj\Debug\net6.0\ref\DataAccess.dll

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "nQhGdmXV85gTyZ0goM5iAoYArKGSnh7bCVkz43bsNykc59h0TWF0cIPO7C+Z0bP/zaRZKO+OvDVcAM+YcztSjQ==",
+  "dgSpecHash": "EF4/gR+TaHQRniLZ3zw+qHlMSBBQDBeNqJJvK1wrPMkoDMDmhZMC93FV8XJ+mOvPs0zBOYEMYZZIc/rR+XDBKA==",
   "success": true,
-  "projectFilePath": "D:\\Code\\Leaning\\Identity-Server\\CoffeeShopper\\Server\\Server.csproj",
+  "projectFilePath": "D:\\Code\\Learning\\IdentityServer\\CoffeeShopper\\Server\\Server.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Admin\\.nuget\\packages\\automapper\\10.0.0\\automapper.10.0.0.nupkg.sha512",
     "C:\\Users\\Admin\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",

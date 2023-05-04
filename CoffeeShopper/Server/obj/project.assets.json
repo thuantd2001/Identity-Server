@@ -2841,11 +2841,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Code\\Leaning\\Identity-Server\\CoffeeShopper\\Server\\Server.csproj",
+      "projectUniqueName": "D:\\Code\\Learning\\IdentityServer\\CoffeeShopper\\Server\\Server.csproj",
       "projectName": "Server",
-      "projectPath": "D:\\Code\\Leaning\\Identity-Server\\CoffeeShopper\\Server\\Server.csproj",
+      "projectPath": "D:\\Code\\Learning\\IdentityServer\\CoffeeShopper\\Server\\Server.csproj",
       "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "D:\\Code\\Leaning\\Identity-Server\\CoffeeShopper\\Server\\obj\\",
+      "outputPath": "D:\\Code\\Learning\\IdentityServer\\CoffeeShopper\\Server\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

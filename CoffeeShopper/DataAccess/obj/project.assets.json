@@ -2018,11 +2018,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Code\\Leaning\\Identity-Server\\CoffeeShopper\\DataAccess\\DataAccess.csproj",
+      "projectUniqueName": "D:\\Code\\Learning\\IdentityServer\\CoffeeShopper\\DataAccess\\DataAccess.csproj",
       "projectName": "DataAccess",
-      "projectPath": "D:\\Code\\Leaning\\Identity-Server\\CoffeeShopper\\DataAccess\\DataAccess.csproj",
+      "projectPath": "D:\\Code\\Learning\\IdentityServer\\CoffeeShopper\\DataAccess\\DataAccess.csproj",
       "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "D:\\Code\\Leaning\\Identity-Server\\CoffeeShopper\\DataAccess\\obj\\",
+      "outputPath": "D:\\Code\\Learning\\IdentityServer\\CoffeeShopper\\DataAccess\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
